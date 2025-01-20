@@ -16,8 +16,11 @@ Interactive Visualizations: Allows users to explore the data dynamically through
 Tools and Technologies
 
 Excel: Data cleaning and preprocessing.
+
 Power Query: Efficient transformation of raw stock market data.
+
 Power BI: Creation of the interactive dashboard and visualizations.
+
 
 Conclusion
 
