@@ -19,7 +19,7 @@ Excel: Data cleaning and preprocessing.
 Power Query: Efficient transformation of raw stock market data.
 Power BI: Creation of the interactive dashboard and visualizations.
 
-📝 Conclusion
+Conclusion
 
 This dashboard offers a streamlined and interactive way to analyze stock market data, providing actionable insights for traders, investors, and analysts. The analysis reveals trends in market performance, sector growth, and stock price movements, offering a valuable resource for informed decision-making.
 
