@@ -27,3 +27,6 @@ Conclusion
 This dashboard offers a streamlined and interactive way to analyze stock market data, providing actionable insights for traders, investors, and analysts. The analysis reveals trends in market performance, sector growth, and stock price movements, offering a valuable resource for informed decision-making.
 
 
+Thank you for taking the time to check out this project! Your interest, feedback, and contributions mean a lot. If you have any suggestions feel free to share. Don't forget to ⭐ this repository if you found it helpful it really helps others find it too.
+
+Happy coding
